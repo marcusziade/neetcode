@@ -1,4 +1,5 @@
 /// Note: This is ass. Refactor with idiomatic Swift
+/// https://leetcode.com/submissions/detail/1341030851/
 
 class Solution {
     func isSubsequence(_ s: String, _ t: String) -> Bool {
